@@ -44,3 +44,4 @@ The agent workflow integrates all the tools mentioned above to create a streamli
 This project provides a comprehensive approach to building an LLM-based research agent. By utilizing serverless LLM endpoints and integrating various tools, the agent is capable of efficiently handling research tasks and generating high-quality summaries. Feel free to experiment with different models and providers to optimize performance and cost.
 
 ## Author : nagargoje.a@northeastern.edu (Amar Nagargoje)
+## Notebook : https://colab.research.google.com/drive/1GIy_9w7GmBsgBDP3rnwetAYPIJraaqWs?usp=sharing
