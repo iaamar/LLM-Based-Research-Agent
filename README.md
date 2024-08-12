@@ -1,4 +1,4 @@
-# LLM-Based Research Agent
+# Opti-Mind: Intelligent Research Agent
 
 This project involves the creation of a research agent that utilizes serverless Large Language Model (LLM) endpoints. The agent is designed to handle a research topic, gather relevant information, and generate a concise summary based on the findings. This README provides an overview of the tools and workflow implemented in the project.
 
