@@ -1,5 +1,7 @@
 # Opti-Mind: Intelligent Research Agent
 
+# Notebook : https://colab.research.google.com/drive/1GIy_9w7GmBsgBDP3rnwetAYPIJraaqWs?usp=sharing
+
 This project involves the creation of a research agent that utilizes serverless Large Language Model (LLM) endpoints. The agent is designed to handle a research topic, gather relevant information, and generate a concise summary based on the findings. This README provides an overview of the tools and workflow implemented in the project.
 
 ## Getting Started
@@ -44,4 +46,3 @@ The agent workflow integrates all the tools mentioned above to create a streamli
 This project provides a comprehensive approach to building an LLM-based research agent. By utilizing serverless LLM endpoints and integrating various tools, the agent is capable of efficiently handling research tasks and generating high-quality summaries. Feel free to experiment with different models and providers to optimize performance and cost.
 
 ## Author : nagargoje.a@northeastern.edu (Amar Nagargoje)
-## Notebook : https://colab.research.google.com/drive/1GIy_9w7GmBsgBDP3rnwetAYPIJraaqWs?usp=sharing
